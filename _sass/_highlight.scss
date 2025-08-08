@@ -1,0 +1,13 @@
+.highlight {
+  margin-block-end: 1rem;
+  padding-inline: 1rem;
+  padding-block: 1rem;
+  font-size: 0.875rem;
+  border-radius: 0.5rem;
+}
+
+.highlight pre {
+  overflow-x: auto;
+}
+
+@import "./dracula";
