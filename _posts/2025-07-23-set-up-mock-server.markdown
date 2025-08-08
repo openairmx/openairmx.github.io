@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Set up a mock server"
 date:   2025-07-23 09:06:41 +0800
 ---
