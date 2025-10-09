@@ -6,7 +6,7 @@ Big thanks to everyone keeping this project alive and breathing. You’re the
 real reason the fans are still spinning.
 
 <section class="donation">
-    <h2 class="donation-title">
+    <h2>
         Love our work? Buy us a coffee!
     </h2>
     <details class="donation-details" name="qrcodes" open>
@@ -49,6 +49,8 @@ real reason the fans are still spinning.
 </section>
 
 ---
+
+## Recent Supporters
 
 - **王同学。** — ¥66.00 via _Alipay_ on _October 5th, 2025_
 - **吴**** — Donated a front panel on _December 15th, 2024_

@@ -104,6 +104,11 @@ body {
   padding-inline: 1.5rem;
 }
 
+.site-main h2 {
+  font-size: 1.125rem;
+  margin-block-end: 1rem;
+}
+
 .site-main p {
   margin-block-end: 1.5rem;
 }
@@ -199,10 +204,6 @@ body {
     margin-inline-start: 2rem;
     float: right;
   }
-}
-
-.donation-title {
-  font-size: 1.25rem;
 }
 
 .donation-details {
