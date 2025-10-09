@@ -19,7 +19,7 @@ real reason the fans are still spinning.
         <p>
             <img
                 src="{{ '/assets/images/donation-qrcode-wechat.jpg' | relative_url }}"
-                alt="Donate via Alipay"
+                alt="Donate via WeChat"
                 width="128"
                 height="128"
             />
