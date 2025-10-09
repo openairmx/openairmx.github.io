@@ -48,5 +48,7 @@ real reason the fans are still spinning.
     </p>
 </section>
 
+---
+
 - **王同学。** — ¥66.00 via _Alipay_ on _October 5th, 2025_
 - **吴**** — Donated a front panel on _December 15th, 2024_

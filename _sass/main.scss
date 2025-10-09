@@ -142,6 +142,13 @@ body {
   color: var(--color-neutral-50);
 }
 
+.site-main hr {
+  margin-block: 2rem;
+  background-color: var(--color-neutral-900);
+  border: 0;
+  height: 1px;
+}
+
 .site-footer {
   grid-area: footer;
   padding-inline: 1.5rem;
