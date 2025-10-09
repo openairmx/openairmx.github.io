@@ -29,9 +29,9 @@ provide dedicated repositories for:
 
 The project scope has expanded significantly beyond our initial expectations.
 We are open-source enthusiasts and do not have any affiliation with
-AIRMX—The company. The project is managed by a software engineer and a
-UI designer. If you appreciate our work, we would be grateful for your support
-through GitHub Sponsors or PayPal. Your generosity means a lot to us.
+AIRMX—The company. The project is managed by a software engineer—Zhineng and a
+UI designer—Shiyun. If you appreciate our work, we would be grateful for your
+support through [WeChat or Alipay][support]. Your generosity means a lot to us.
 
 If you have any questions or just want to say hello, please feel free to
 send us a message at [hello@openairmx.org][contact-email].
@@ -40,4 +40,5 @@ send us a message at [hello@openairmx.org][contact-email].
 [setup-page]: https://github.com/openairmx/setup
 [airmx]: https://github.com/openairmx/airmx
 [homebridge-airmx]: https://github.com/openairmx/homebridge-airmx
+[support]: /wall-of-love
 [contact-email]: mailto:hello@openairmx.org
